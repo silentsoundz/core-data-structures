@@ -3,6 +3,21 @@
 [Basic](#basic-data-structures) | [Advanced](#advanced-data-structures)
 
 ## Basic Data Structures
+Specifications
+
+ [ ]Artifact produced is a fork of the core-data-structures repo.  
+ [ ]Can run all tests with npm test.  
+ [ ]All tests are passing.  
+ [ ]For each data structure in the list, there exists:    
+     [ ]a test file with unit tests for each method and property.  
+     [ ]an implementation file with a correct implementation of the data structure.  
+ [ ]Repository includes a README file with basic installation and setup instructions.  
+ [ ]All dependencies are properly declared in package.json.  
+ [ ]All major features are added via pull requests with a clear description and concise commit messages.  
+ [ ]Code uses a linter and there are no linting errors.  
+ [ ]Variables, functions, files, etc. have appropriate and meaningful names.  
+ [ ]Functions are small and serve a single purpose.  
+ [ ]The artifact produced is properly licensed, preferably with the MIT license.   
 
 ### Node
 
