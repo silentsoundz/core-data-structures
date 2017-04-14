@@ -6,11 +6,11 @@
 Specifications
 
  [x]Artifact produced is a fork of the core-data-structures repo.  
- [ ]Can run all tests with npm test.  
- [ ]All tests are passing.  
- [ ]For each data structure in the list, there exists:    
+ [x]Can run all tests with npm test.  
+ [x]All tests are passing.  
+ [x]For each data structure in the list, there exists:    
      [ ]a test file with unit tests for each method and property.  
-     [ ]an implementation file with a correct implementation of the data structure.  
+     [x]an implementation file with a correct implementation of the data structure.  
  [x]Repository includes a README file with basic installation and setup instructions.  
  [x]All dependencies are properly declared in package.json.  
  [x]All major features are added via pull requests with a clear description and concise commit messages.  
